@@ -1,7 +1,7 @@
 # BuyerShield
 维权侠，让普通消费者也能用上 AI 法律助手，自动识别商家违规、生成投诉材料、与客服智能交涉，维护自己的正当权益。
 
-# 🛡️ Multi-ECommerce Rights Defender Agent  
+## 🛡️ Multi-ECommerce Rights Defender Agent  
 **一个开源的多平台电商维权智能助手**  
 支持淘宝 / 拼多多 / 京东 / 天猫 / 亚马逊 等平台，帮助消费者在售后或客服沟通中自动生成维权策略、智能对话、收集证据。
 
